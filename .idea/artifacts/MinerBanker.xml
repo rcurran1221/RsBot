@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinerBanker">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="MinerBanker.jar">
+      <element id="module-output" name="BotCommon" />
+      <element id="library" level="project" name="client" />
+      <element id="module-output" name="MinerBanker" />
+    </root>
+  </artifact>
+</component>

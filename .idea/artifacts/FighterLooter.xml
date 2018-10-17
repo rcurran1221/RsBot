@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FighterLooter">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="FighterLooter.jar">
+      <element id="module-output" name="FighterLooter" />
+      <element id="library" level="project" name="client" />
+      <element id="module-output" name="BotCommon" />
+    </root>
+  </artifact>
+</component>

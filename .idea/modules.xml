@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bot.iml" filepath="$PROJECT_DIR$/Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BotCommon/BotCommon.iml" filepath="$PROJECT_DIR$/BotCommon/BotCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FighterLooter/FighterLooter.iml" filepath="$PROJECT_DIR$/FighterLooter/FighterLooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinerBanker/MinerBanker.iml" filepath="$PROJECT_DIR$/MinerBanker/MinerBanker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerCutter/PowerCutter.iml" filepath="$PROJECT_DIR$/PowerCutter/PowerCutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerMiner/PowerMiner.iml" filepath="$PROJECT_DIR$/PowerMiner/PowerMiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FishingCooker/ShrimpFisherCooker.iml" filepath="$PROJECT_DIR$/FishingCooker/ShrimpFisherCooker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WillowChopperBanker/WillowChopperBanker.iml" filepath="$PROJECT_DIR$/WillowChopperBanker/WillowChopperBanker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YewCutterBanker/YewCutterBanker.iml" filepath="$PROJECT_DIR$/YewCutterBanker/YewCutterBanker.iml" />
+    </modules>
+  </component>
+</project>

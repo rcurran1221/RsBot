@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PowerCutter">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="PowerCutter.jar">
+      <element id="module-output" name="PowerCutter" />
+      <element id="module-output" name="BotCommon" />
+      <element id="library" level="project" name="client" />
+    </root>
+  </artifact>
+</component>

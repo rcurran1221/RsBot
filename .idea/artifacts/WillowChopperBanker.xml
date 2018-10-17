@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WillowChopperBanker">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="WillowChopperBanker.jar">
+      <element id="module-output" name="WillowChopperBanker" />
+      <element id="module-output" name="BotCommon" />
+      <element id="library" level="project" name="client" />
+    </root>
+  </artifact>
+</component>
